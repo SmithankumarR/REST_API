@@ -1,2 +1,2 @@
 # REST_API
-created using node, expressjs, mongoose, and tested through postman
+created using nodejs, expressjs, mongoose, and tested through postman
